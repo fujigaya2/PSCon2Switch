@@ -1,0 +1,21 @@
+210321 fujigaya2
+アナログ部分を適当に追加。
+もともとの方法だと、ビットが逆転しているので、
+PS2のシリアルからとってきてByteに組み立てる順番を上下逆に変更。
+
+アナログモードに強制的にやる方法は、
+
+https://pspunch.com/pd/article/arduino_lib_gpsx.html
+を参考にやるかどうか考える。
+
+Arduino IDE1.8.13だとArduinoSTLでエラーが出る。
+https://teratail.com/questions/271735
+で解決可能か？
+
+前のパソコンはArduinoのIDEが1.8,3だったので、大丈夫だったけどそこらへんか？
+
+
+boards.txtの書き換えがうまくいかない・・・。
+以下でうまくできた。
+https://tangential-star.hatenablog.jp/entry/20201107/1604761008
+
