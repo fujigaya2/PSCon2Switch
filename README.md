@@ -5,3 +5,6 @@
 - <https://github.com/fujigaya2/PSCon2Switch/blob/main/schematic.png>のようにつなげば、動くたぶん。
 - ボードがうまく書き込めていれば、windowsのデバイスマネージャで、<https://github.com/fujigaya2/PSCon2Switch/blob/main/device.jpg>のようなVID,PIDで見えるはず。
 - こんなボードにして動いている。<https://seesaawiki.jp/fujigaya2/d/Mascon2kbd> 
+### 使用ライブラリ
+- SwitchControlLibrary <https://github.com/celclow/SwitchControlLibrary> MITライセンス　使用
+- 
