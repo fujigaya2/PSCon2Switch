@@ -6,5 +6,7 @@
 - ボードがうまく書き込めていれば、windowsのデバイスマネージャで、<https://github.com/fujigaya2/PSCon2Switch/blob/main/device.jpg>のようなVID,PIDで見えるはず。
 - こんなボードにして動いている。<https://seesaawiki.jp/fujigaya2/d/Mascon2kbd> 
 ### 使用ライブラリ
-- SwitchControlLibrary <https://github.com/celclow/SwitchControlLibrary> MITライセンス　使用
-- 
+- Switch Control Library（V2.0.0)<https://github.com/celclow/SwitchControlLibrary>
+
+- PSX Controller Decoder Library (DenshaMascon.cpp)  
+Written by: Kevin Ahrendt June 22nd, 2008 Modified by: Yaasan / Desktop Station Dec 15, 2015
